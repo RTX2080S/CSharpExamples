@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UisngDelegate", "UisngDeleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateExample", "MulticastDelegate\MulticastDelegateExample.csproj", "{FCD87795-FC25-4D6E-8BC0-5EDFD7D46C32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDynamicInvokation", "DelegateDynamicInvokation\DelegateDynamicInvokation.csproj", "{1CD206AD-55B8-4991-AA5E-4693E2B18A0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{FCD87795-FC25-4D6E-8BC0-5EDFD7D46C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD87795-FC25-4D6E-8BC0-5EDFD7D46C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD87795-FC25-4D6E-8BC0-5EDFD7D46C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD206AD-55B8-4991-AA5E-4693E2B18A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD206AD-55B8-4991-AA5E-4693E2B18A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD206AD-55B8-4991-AA5E-4693E2B18A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD206AD-55B8-4991-AA5E-4693E2B18A0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +165,7 @@ Global
 		{6CD099E2-376E-4779-91F4-F78517EB002A} = {7F296A4E-7FA8-487E-983A-DF0F415938F9}
 		{5E5CC2A4-E120-4EDC-95AF-6514D6DB733E} = {801DF6C0-C360-416B-953A-76CC986281D9}
 		{FCD87795-FC25-4D6E-8BC0-5EDFD7D46C32} = {801DF6C0-C360-416B-953A-76CC986281D9}
+		{1CD206AD-55B8-4991-AA5E-4693E2B18A0F} = {801DF6C0-C360-416B-953A-76CC986281D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E0BBEDF8-06C8-4AFA-AC83-A3D47A717F00}
