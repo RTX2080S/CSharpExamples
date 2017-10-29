@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollectionExample",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratingConcurrentBag", "EnumeratingConcurrentBag\EnumeratingConcurrentBag.csproj", "{DCE4C4C4-52AB-4C04-9238-FDEF79EA7B4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationTokenExample", "CancellationTokenExample\CancellationTokenExample.csproj", "{94FC9F49-EA31-4B56-987D-30535A1564CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{DCE4C4C4-52AB-4C04-9238-FDEF79EA7B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE4C4C4-52AB-4C04-9238-FDEF79EA7B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE4C4C4-52AB-4C04-9238-FDEF79EA7B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FC9F49-EA31-4B56-987D-30535A1564CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FC9F49-EA31-4B56-987D-30535A1564CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FC9F49-EA31-4B56-987D-30535A1564CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FC9F49-EA31-4B56-987D-30535A1564CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +128,7 @@ Global
 		{6A2111CD-ED56-4594-93D9-524D1243EAAD} = {09526D53-DB44-48DD-842B-FAB953D6EEAF}
 		{4BDA7FEC-F03E-4E03-B824-277C18CB7C5F} = {1620C22D-0752-4C62-901A-39742A9C90C4}
 		{DCE4C4C4-52AB-4C04-9238-FDEF79EA7B4F} = {1620C22D-0752-4C62-901A-39742A9C90C4}
+		{94FC9F49-EA31-4B56-987D-30535A1564CC} = {7F296A4E-7FA8-487E-983A-DF0F415938F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E0BBEDF8-06C8-4AFA-AC83-A3D47A717F00}
